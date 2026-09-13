@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Логи и трекинг экспериментов
+wandb/
+.ipynb_checkpoints/
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db

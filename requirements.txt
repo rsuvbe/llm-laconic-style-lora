@@ -1,0 +1,20 @@
+# Data processing
+pandas
+numpy
+datasets
+
+# Model loading & fine-tuning
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+
+# Experiment tracking
+wandb
+
+# Evaluation
+rouge-score
+
+# LLM API clients (style transfer + LLM-as-a-judge)
+groq
